@@ -15,3 +15,6 @@ In the fxmanifest add the following changes
 - Open the fxmanifest file to see the new changes
 
 # Drawtext made by Idris
+
+
+## Note this is not a script !!
